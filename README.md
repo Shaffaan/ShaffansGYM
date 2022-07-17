@@ -6,6 +6,8 @@ Website is hosted at https://shaffaansgym.netlify.app/
 # Front Page
 ![](public/FrontPage.png)
 
+All styling for the page was done using Material UI
+Documentation for Material UI can be found at https://mui.com/
 
 
 
