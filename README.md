@@ -1,5 +1,5 @@
 # Shaffans Gym
-Complete web application designed and created from scratch
+Complete web application designed and created from scratch using React JS
 
 Allows you to search up exercises and displays youtube videos to help you with the exercise
 
