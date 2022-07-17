@@ -3,12 +3,8 @@ Complete web application designed and created from scratch
 
 Allows you to search up exercises and displays youtube videos to help you with the exercise
 
-Website uses two APIS
 
-1)ExerciseDB API By Justin Mozley
-2) Youtube Search and Download API
-
-Website is hosted at https://shaffaansgym.netlify.app/
+Website is hosted at https://shaffaansgym.netlify.app/.   Try it out for yourself
 
 # Front Page
 ![](public/FrontPage.png)
@@ -20,6 +16,13 @@ Documentation for Material UI can be found at https://mui.com/
 
 
 
+
+
+Website uses two APIS
+
+1)ExerciseDB API By Justin Mozley
+
+2) Youtube Search and Download API
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
